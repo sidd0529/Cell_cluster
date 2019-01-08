@@ -9,10 +9,10 @@ The code in this repository uses data from 33 different labs and research public
 One can use the methods ilustrated in this code to identify new cell types (like new lung cells and new brain cells) and find which genes contribute to cell types.
 
 Below is a picture of explained variance ratio obtained during implementation of PCA in this code:
-<img src="https://user-images.githubusercontent.com/26308648/48154913-be925400-e297-11e8-9c3c-a3686ddc5d36.png" width="620">
+<img src="https://user-images.githubusercontent.com/26308648/50857343-56292700-135b-11e9-80a8-491e7b48b691.png" width="620">
 
 A plot which shows segregation of data (in the test data set) along the top two principal axes can be found below:
-<img src="https://user-images.githubusercontent.com/26308648/48155065-2ba5e980-e298-11e8-9359-68a157428ac7.png" width="620">
+<img src="https://user-images.githubusercontent.com/26308648/50857361-66410680-135b-11e9-98fb-5152d7cfe632.png" width="620">
 
 ## How to get started with this project?
 ```
