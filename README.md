@@ -20,7 +20,7 @@ $ git clone https://github.com/sidd0529/Cell_cluster.git
 $ cd Cell_cluster
 ```
 
-One can download the folder containing files with cell-gene data from 33 labs [here](https://drive.google.com/open?id=1pBkCNAZ2eNSWFN5lcM7CaoBRqp9agg_E). The folder with protein-DNA interaction data can be gotten from [here](https://drive.google.com/open?id=16A92yjaU4vNsMTvk3_D3nyARjf3QI08c) . Download these folders and put them inside the folder 'Cell_cluster'.
+One can download the folder containing files with cell-gene data from 33 labs [here](https://drive.google.com/open?id=1pBkCNAZ2eNSWFN5lcM7CaoBRqp9agg_E). Folder with protein-DNA interaction data can be gotten from [here](https://drive.google.com/open?id=16A92yjaU4vNsMTvk3_D3nyARjf3QI08c) . Download these folders and put them inside the folder 'Cell_cluster'.
 
 Run the code using:
 ```
