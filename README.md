@@ -1,7 +1,7 @@
 # Cell_cluster
 
 ## What does this project do?
-Through recent technical advances, we can now profile the transcriptome of individual cells. Such research can help us look into RNA molecules inside cells. The amount of RNA in a given cell can give us knowledge of the level of expression of different genes in the cell. Such research offer us fin resolution into the expression of genes in millions of cells. 
+Through recent technical advances, we can now profile the transcriptome of individual cells. Such research can help us look into RNA molecules inside cells. The amount of RNA in a given cell can give us knowledge of the level of expression of different genes in the cell. Such research offer us fine resolution into the expression of genes in millions of cells. 
 
 The code in this repository uses data from 33 different labs and research publications and researches methods to predict cell types based on gene expression data. In addition to cell-gene data, this work also uses protein-DNA and protein-protein data to find similar genes. It also uses the said data to perform dimensionality reduction. The raw data has 17382 cells and over 80,000 features (genes). The pipeline that is presented in this repository uses novel methods for dimensionality reduction, good practices for data processing and tools in machine learning like Principal Component Analysis (PCA) and Logistic Regression to predict cell types. The prediction accuracy that is gotten in this code is close to 95%.
 
